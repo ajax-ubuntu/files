@@ -1,7 +1,6 @@
-
 <?php
 
-$GLOBALS[''] = array(
+$GLOBALS['Leviathan'] = array(
     'username' => 'haxor',
     'password' => '8f700a26011e382f1865394382405997',
     'safe_mode' => '1',
